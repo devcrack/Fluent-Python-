@@ -1,2 +1,2 @@
 # Fluent-Python-
-Code Sheets, Notes &amp; Exersices in this Book
+Code Sheets, Notes &amp; Exersices of this Book
